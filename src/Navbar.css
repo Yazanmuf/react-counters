@@ -1,0 +1,22 @@
+nav {
+  background: lightcoral;
+}
+ul {
+  list-style: none;
+  display: inline-block;
+}
+
+li {
+  display: -ms-grid;
+  color: beige;
+}
+
+a {
+  color: azure;
+  font-size: 120%;
+}
+
+img {
+  height: 60px;
+  width: 60px;
+}
